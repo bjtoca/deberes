@@ -343,6 +343,7 @@ Posición 2: V1 = VS ; V2 = 0V
 ![image](https://user-images.githubusercontent.com/117947312/201272181-c0350dad-3a3b-44b9-95da-f0001e75b876.png)
 
 VIDEO
+https://youtu.be/8NSKte1zCzI
 
 CONCLUSIONES.
 

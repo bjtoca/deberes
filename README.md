@@ -1,4 +1,184 @@
 ![image](https://user-images.githubusercontent.com/117947312/201243373-4a293614-b4b0-44d5-b519-da4cbc63d538.png)
 
 NOMBRE: Brando Toca
+
 NRC: 10067
+
+Informe Tarea 1.
+
+Objetivos
+
+Investigar por medio de libros y otras bibliografías diversos temas como los que son unidades de medición y notación científica, para de esta forma realizar los ejercicios propuestos por el libro de principios de circuitos eléctricos de Floyd.
+
+Objetivos específicos.
+
+•	Dominar las unidades de medida, para de esta manera identificar de mejor forma los elementos que vamos a utilizar para la materia de fundamentos de circuitos eléctricos. 
+
+•	Comprender como funciona la notación científica por medio de bibliografías y libros brindados por el profesor, asimismo con la realización de ejercicios.
+
+•	Determinar la importancia la notación científica y las unidades de medida en la materia de circuitos eléctricos y para que lo usaremos frecuentemente.
+
+MARCO TEÓRICO
+
+Mapas Conceptuales.
+
+![1](https://user-images.githubusercontent.com/117947312/201264161-8e42fa7a-26a1-42dd-852a-79edba16b953.png)
+ 
+ ![2](https://user-images.githubusercontent.com/117947312/201264194-84693372-467a-4fd2-a604-d744cb9b9e03.png)
+
+![3](https://user-images.githubusercontent.com/117947312/201264204-9a40e765-8624-4193-8c44-3f0451ed7bfd.png)
+
+![4](https://user-images.githubusercontent.com/117947312/201264222-2285cce8-fedb-4fa1-9418-7b338e261778.png)
+
+![5](https://user-images.githubusercontent.com/117947312/201264246-9290242e-892c-49b0-83b1-59d9bc5ea8a9.png)
+
+Solución y explicación de ejercicios.
+
+1. Exprese cada uno de los números siguientes en notación científica:
+
+(a) 3000 = 3*10^3
+
+(b) 75,000 = 7.5*10^4
+
+(c) 2,000,000 = 2*10^6
+
+Explicación: Para simplificar la presentación del número, se recorrió la coma decimal por la cantidad de ceros del valor.
+
+3. Exprese cada uno de los números siguientes en notación científica:
+
+(a) 8400 = 8.4*10^3
+
+(b) 99,000 = 9.9*10^4
+
+(c) 0.2 * 10^6 = 200,000
+
+Explicación: Para simplificar la presentación del número, se recorrió la coma decimal por la cantidad de ceros del valor. A excepción de la tercera que se hizo lo contrario.
+
+5. Exprese cada uno de los números siguientes en notación científica:
+
+(a) 32 * 10^3 = 32000
+
+(b) 6800 * 10^-6 = 6,8*10^-3
+
+(c) 870 * 10^8 = 8.7*10^10 
+
+Explicación: En la primera se realizó una operación normal, sin embargo, en el literal b y c al salir valores muy grandes, se simplificó aplicando notación científica.
+
+7.  Exprese cada uno de los números siguientes como un número decimal regular:
+
+(a) 2.5 * 10^-6 = 1/400000
+
+(b) 5.0 * 10^2 = 500
+
+(c) 3.9 * 10^-1 = 0.39
+
+Explicación: básicamente en estos literales lo que se hizo fue poner el mismo número y recorrimos la coma dependiendo el valor del exponente del número 10.
+
+9. Sume los números siguientes:
+
+(a) (9.2*10^6) + (3.4*10^7) = (0.92*10^7) +(3.4*10^7) = (4.32*10^7)
+
+(b) (5*10^3) + (8.5*10^-1) = (5*10^3) + (0.00085*10^3) = (5.00085*10^3)
+
+(c) (5.6*10^-8) + (4.6*10^-9) = (5.6*10^-8) + (0.46*10^-8) = (6.06*10^-8)
+
+Explicación: La única forma de resolver una suma de potencias, es que estas tengan los mismos exponentes, por lo que tomamos una de los dos elementos e igualamos sus exponentes para luego realizar una suma sencilla.
+
+11. Realice las siguientes multiplicaciones:
+
+(a) (5*10^3) (4*10^5) = (20*10^8)
+
+(b) (1.2*10^12) (3*10^2) = (3.6*10^14)
+
+(c) (2.2*10^-9) (7*10^-6) = (15.4*10^-15)
+
+Explicación: Como una multiplicación normal de potencias, sumamos los exponentes y sacamos producto de las bases.
+
+13. Exprese cada uno de los números siguientes en notación de ingeniería:
+(a) 89,000 =
+(b) 450,000 =
+(c) 12,040,000,000,000 =
+
+15. Exprese cada número en notación de ingeniería:
+(a) 0.000345 =
+(b) 0.025 =
+(c) 0.00000000129 =
+
+17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+(a) (2.5*10^-3) +(4.6*10^-3) =
+(b) (68*10^6) +(33*10^6) =
+(c) (1.25*10^6) +(250*10^3) =
+
+19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
+(a) 50÷ (2.2*10^3) =
+(b) (5*10^3) ÷ (25*10^-6) =
+(c) 560 * 10^3 ÷ (660*10^3) =
+
+21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
+
+23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+(a) 3*10^-6F
+(b) 3.3*10^6Ω
+(C) 350*10^-9 A
+ 
+25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+(a) 7.5 pA 
+(b) 3.3 GHz 
+(c) 280 Nw
+
+27. Realice las conversiones indicadas:
+(a) 5 mA a microamperios 
+(b) 3200 mW a mili watts
+(c) 5000 kV a megavolt 
+(d) 10 MW a kilowatt
+
+29. Sume las siguientes cantidades:
+(a) 50mA + 680 µA 
+(b) 120kΩ + 2.2 10kΩ
+(c) 0.02µF + 3300pF 
+
+CARGA ELÉCTRICA
+1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+
+3. ¿Cuántos coulombs de carga poseen 50 3 1031 electrones?
+5. Determine el voltaje en cada uno de los siguientes casos:
+       (a) 10 J/C
+       (b) 5 J/2 C 
+       (c) 100 J/25 C
+
+7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
+un resistor?
+
+9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
+calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+
+13. ¿Cuántos coulomb pasan por un punto en 0?1 s cuando la corriente es de 1.5 A?
+
+15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
+(a) 5Ω
+(b) 25Ω
+(c) 100Ω
+17. Enliste cuatro fuentes de voltaje comunes.
+
+19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+(a) rojo, violeta, naranja, oro 
+(b) café, gris, rojo, plata
+
+23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330Ω 2.2 kΩ 56kΩ 100 kΩ y 39 kΩ
+
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+(a)  0.47 Ω
+(b)  270 kΩ
+(c) 5.1 MΩ
+
+27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+(a) 14.7 kΩ
+(b) 39.2 Ω
+(c) 9.76 kΩ
+
+29. ¿Cuál es la resistencia indicada por 4K7?
+
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.

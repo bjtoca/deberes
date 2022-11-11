@@ -96,31 +96,37 @@ Explicación: Como una multiplicación normal de potencias, sumamos los exponent
 
 13. Exprese cada uno de los números siguientes en notación de ingeniería:
 
-(a) 89,000 = 
+(a) 89,000 = 0.089*10^3
 
-(b) 450,000 =
+(b) 450,000 = 0.045*10^3
 
-(c) 12,040,000,000,000 =
+(c) 12,040,000,000,000 = 12.04*10^12
+
+Explicación: dependiendo el ejercicio se suma o se resta el exponente de numeros necesarios para que quede en multiplo de 3
 
 15. Exprese cada número en notación de ingeniería:
 
-(a) 0.000345 =
+(a) 0.000345 = 0.345*10^-3
 
-(b) 0.025 =
+(b) 0.025 = 25*10^-3
 
-(c) 0.00000000129 =
+(c) 0.00000000129 = 1.29*10^-9
+
+Explicación: dependiendo el ejercicio se suma o se resta el exponente de numeros necesarios para que quede en multiplo de 3
 
 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
 
-(a) (2.5*10^-3) +(4.6*10^-3) =
+(a) (2.5*10^-3) +(4.6*10^-3) = 4.6000025*20^3
 
-(b) (68*10^6) +(33*10^6) =
+(b) (68*10^6) +(33*10^6) = 101*109^6
 
-(c) (1.25*10^6) +(250*10^3) =
+(c) (1.25*10^6) +(250*10^3) = 1.5*10^6
+
+Explicación: dependiendo el ejercicio se suma o se resta el exponente de numeros necesarios para que quede en multiplo de 3
 
 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
 
-(a) 50÷ (2.2*10^3) =
+(a) 50÷ (2.2*10^3) = 
 
 (b) (5*10^3) ÷ (25*10^-6) =
 

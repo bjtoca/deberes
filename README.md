@@ -315,7 +315,18 @@ VIDEO
 
 CONCLUSIONES.
 
-- Se determinó como se simplifica un valor por medio de la notación cientifica 
+- Se determinó como se simplifica un valor por medio de la notación cientifica.
+- Se comprendió los distintos elementos que tiene la materia de circuitos electricos, esto por medio de ejercicios y teoria.
+
+Bibliografia.
+
+Álvarez, D. O. (s/f). Número Atómico - Concepto, masa atómica y número másico. Concepto. Recuperado el 11 de noviembre de 2022, de https://concepto.de/numero-atomico/
+
+Sistema Internacional de Unidades y conversiones. (2019, enero 24). MateMovil; Matemóvil. https://matemovil.com/sistema-internacional-de-unidades-y-conversiones/
+
+Tomé, C. (2020, junio 23). El núcleo atómico — Cuaderno de Cultura Científica. Cuaderno de Cultura Científica. https://culturacientifica.com/2020/06/23/el-nucleo-atomico/
+
+UNIDADES DEL SISTEMA INTERNACIONAL DE MEDIDA “SI”. (2012, diciembre 15). Solo Formulas. https://soloformulas.com/unidades-del-sistema-internacional-de-medida-si.html
 
 
 

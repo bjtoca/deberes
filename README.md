@@ -126,21 +126,33 @@ Explicación: dependiendo el ejercicio se suma o se resta el exponente de numero
 
 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
 
-(a) 50÷ (2.2*10^3) = 
+(a) 50÷ (2.2*10^3) = 0.02272727273*10^-3
 
-(b) (5*10^3) ÷ (25*10^-6) =
+(b) (5*10^3) ÷ (25*10^-6) = 0.2*10^9
 
-(c) 560 * 10^3 ÷ (660*10^3) =
+(c) 560 * 10^3 ÷ (660*10^3) = 08484.848485*10^-3
+
+Explicación: se resuelve como un ejercicio normal de potenciación y luego dependiendo el ejercicio se suma o se resta el exponente de numeros necesarios para que quede en multiplo de 3
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
+(a) 3.45*10^-7A
+
+(b) 2.5*10^-8
+
+(c) 1.29*10
+
+Explicación: Tomar en cuenta que 1mA = 0.001A si hacemos una regla de 3 obtendremos el resultado expresado de notación de ingeniería.
+
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
-(a) 3*10^-6F =
+(a) 3*10^-6F = 0.000003 F
 
-(b) 3.3*10^6Ω =
+(b) 3.3*10^6Ω = 0.0000032999999999999997Ω
 
-(C) 350*10^-9 A =
+(C) 350*10^-9 A = 0.0000000350000000000000004 A
+
+Explicación:
  
 25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
 
@@ -149,6 +161,8 @@ Explicación: dependiendo el ejercicio se suma o se resta el exponente de numero
 (b) 3.3 GHz =
 
 (c) 280 Nw =
+
+Explicación:
 
 27. Realice las conversiones indicadas:
 
@@ -160,6 +174,8 @@ Explicación: dependiendo el ejercicio se suma o se resta el exponente de numero
 
 (d) 10 MW a kilowatt =
 
+Explicación:
+
 29. Sume las siguientes cantidades:
 
 (a) 50mA + 680 µA =
@@ -167,6 +183,8 @@ Explicación: dependiendo el ejercicio se suma o se resta el exponente de numero
 (b) 120kΩ + 2.2 10kΩ =
 
 (c) 0.02µF + 3300pF =
+
+Explicación:
 
 CARGA ELÉCTRICA
 
@@ -181,6 +199,8 @@ CARGA ELÉCTRICA
 (b) 5 J/2 C =
       
 (c) 100 J/25 C =
+
+Explicación:
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
 un resistor?
@@ -200,6 +220,8 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
 (c) 100Ω =
 
+Explicación:
+
 17. Enliste cuatro fuentes de voltaje comunes.
 
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
@@ -209,6 +231,8 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 (a) rojo, violeta, naranja, oro =
 
 (b) café, gris, rojo, plata =
+
+Explicación:
 
 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330Ω 2.2 kΩ 56kΩ 100 kΩ y 39 kΩ
 
@@ -220,6 +244,8 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
 (c) 5.1 MΩ =
 
+Explicación:
+
 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
 
 (a) 14.7 kΩ =
@@ -227,6 +253,8 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 (b) 39.2 Ω =
 
 (c) 9.76 kΩ =
+
+Explicación:
 
 29. ¿Cuál es la resistencia indicada por 4K7?
 
@@ -268,6 +296,8 @@ Mediciones de circuito básicas
 
 (c) manecilla en 45, ajuste de intervalo en 3100 =
 
+Explicación:
+
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
 (a) I1 =
@@ -275,6 +305,8 @@ Mediciones de circuito básicas
 (b) V1 =
 
 (c) R1 =
+
+Explicación:
 
 ![image](https://user-images.githubusercontent.com/117947312/201265617-de8f81b6-057b-4f25-85ac-1f13ed6c5934.png)
 ![image](https://user-images.githubusercontent.com/117947312/201265621-0d713c34-95f0-40c3-8129-5230a5b40339.png)

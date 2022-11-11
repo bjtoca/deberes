@@ -1,2 +1,3 @@
-fwefrgghghmh ![image](https://user-images.githubusercontent.com/117947312/201242992-c2837e08-34bd-4d55-b0ae-1e2de0c1c3c6.png)
-
+![image](https://user-images.githubusercontent.com/117947312/201243373-4a293614-b4b0-44d5-b519-da4cbc63d538.png)
+NOMBRE: Brando Toca
+NRC: 10067

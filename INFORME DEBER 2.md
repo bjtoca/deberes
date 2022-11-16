@@ -113,4 +113,38 @@ Explicación:
 
 (h) I=75µA; R=47Ω
 
-(g) I=850µA; R=10MΩ
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 pa-
+ra obtener las cantidades de corriente indicadas.
+
+![image](https://user-images.githubusercontent.com/117947312/202272275-0ab80dc3-3af2-46e0-a0f9-88e1198a74ec.png)
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+(a) V= 10V; I= 2A
+
+(b) V= 50V; I= 5A
+
+(c) V= 150V; I= 0.5A
+
+(d) V= 90V; I= 45A
+
+(e) V= 5.5V; I= 10A
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+Explicación:
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+Explicación:
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
+
+Explicación:
+
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+![image](https://user-images.githubusercontent.com/117947312/202274399-7de3f724-6482-4906-985b-712a237c4982.png)
+
+
+

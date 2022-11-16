@@ -8,6 +8,7 @@ Informe Tarea 2.
 
 Objetivos
 
+•	
 
 
 Objetivos específicos.
@@ -17,3 +18,4 @@ Objetivos específicos.
 MARCO TEÓRICO
 
 Mapas Conceptuales.
+![Esquema Mapa Conceptual Doodle Multicolor](https://user-images.githubusercontent.com/117947312/202080253-b143b76f-5dd5-4c58-bc85-e744429a068a.png)

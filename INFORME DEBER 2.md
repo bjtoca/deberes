@@ -54,7 +54,63 @@ Explicación: primero calculamos la resistencia planteada en el problema (0,2) y
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro.
 
+Explicación:
 
 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
 ![image](https://user-images.githubusercontent.com/117947312/202264076-c007e791-c4ef-4fac-8759-a83056349a35.png)
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuen-
+te de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+Explicación:
+
+14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+Explicación:
+
+16. Determine la corriente en cada caso:
+
+(a) V= 9V; R=2.7kΩ = 
+
+(b) V= 5.5V; R=10kΩ =
+
+(c) V= 40V; R=68kΩ =
+
+(d) V= 1kV; R=2.2kΩ =
+
+(e) V= 66kV; R=10MΩ =
+
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrien-
+tes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+Explicación:
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
+de colores es naranja, violeta, amarillo, oro, café.
+
+Explicación:
+
+22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+
+![image](https://user-images.githubusercontent.com/117947312/202268253-6b9c61ae-1805-4945-890f-aa18dd69f844.png)
+
+24. Calcule el voltaje para cada valor de I y R:
+
+(a) I=1mA; R=10Ω 
+
+(b) I=50mA; R=33Ω
+
+(c) I=3A; R=5.6KΩ
+
+(d) I=1.6mA; R=2.2KΩ
+
+(e) I=250µA; R=1.0KΩ
+
+(f) I=500mA; R=1.5MΩ
+
+(g) I=850µA; R=10MΩ
+
+(h) I=75µA; R=47Ω
+
+(g) I=850µA; R=10MΩ

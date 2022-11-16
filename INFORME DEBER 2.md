@@ -18,4 +18,4 @@ Objetivos específicos.
 MARCO TEÓRICO
 
 Mapas Conceptuales.
-![Esquema Mapa Conceptual Doodle Multicolor](https://user-images.githubusercontent.com/117947312/202080253-b143b76f-5dd5-4c58-bc85-e744429a068a.png)
+![Esquema Mapa Conceptual Doodle Multicolor](https://user-images.githubusercontent.com/117947312/202080481-e6f5c7fe-3003-469e-a2d4-4dd2944bd3e8.png)

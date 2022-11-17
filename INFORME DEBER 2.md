@@ -262,7 +262,7 @@ Explicación: 0.08 kWh
 
 Explicación: V=5; I=5mA; R=1000Ω
 
-VIDEO https://youtu.be/8NSKte1zCzI
+VIDEO (https://youtu.be/RYb9VWfbB_8)
 
 CONCLUSIONES.
 

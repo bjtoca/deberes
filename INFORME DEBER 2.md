@@ -60,6 +60,12 @@ Explicación: 8200
 
 ![image](https://user-images.githubusercontent.com/117947312/202264076-c007e791-c4ef-4fac-8759-a83056349a35.png)
 
+(a) 0.015
+(b) 0.019
+(c) 0.021
+
+Explicación: se transforma los kΩ a Ω, luego por medio de la ley de ohm se calcula la corriente de las 3 y se concluye que el circuito C es la mas alta y el A el mas bajo. 
+
 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuen-
 te de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 

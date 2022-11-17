@@ -120,48 +120,43 @@ Explicación: 0.032mA
 
 (h) I=75µA; R=47Ω = 0.0035 V
 
-26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 pa-
-ra obtener las cantidades de corriente indicadas.
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 
 ![image](https://user-images.githubusercontent.com/117947312/202272275-0ab80dc3-3af2-46e0-a0f9-88e1198a74ec.png)
 
+(a) 81V
+
+(b) 500V
+
+(c) 117.5V
+
 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
-(a) V= 10V; I= 2A
+(a) V= 10V; I= 2A = 5Ω 
 
-(b) V= 50V; I= 5A
+(b) V= 50V; I= 5A = 10Ω 
 
-(c) V= 150V; I= 0.5A
+(c) V= 150V; I= 0.5A = 300Ω 
 
-(d) V= 90V; I= 45A
+(d) V= 90V; I= 45A = 2Ω 
 
-(e) V= 5.5V; I= 10A
+(e) V= 5.5V; I= 10A = 0.55Ω 
 
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
-Explicación:
+Explicación: 0.003 Ω  
 
 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
-Explicación:
+Explicación: 12 Ω 
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
 
-Explicación:
+Explicación: 60 Ω 
 
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
 ![image](https://user-images.githubusercontent.com/117947312/202274399-7de3f724-6482-4906-985b-712a237c4982.png)
 
-38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apropiadamente.
 
-Explicación:
-
-40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.
-
-Explicación:
-
-42. Abra el archivo P03-42 y encuentre el problema con el circuito
-
-Explicación:
 

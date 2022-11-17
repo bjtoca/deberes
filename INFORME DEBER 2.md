@@ -54,7 +54,7 @@ Explicación: primero calculamos la resistencia planteada en el problema (0,2) y
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro.
 
-Explicación:
+Explicación: 8200
 
 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 

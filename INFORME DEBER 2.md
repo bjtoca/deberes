@@ -89,34 +89,36 @@ Explicación: Si, ya que utilizando la ley de ohm con 10V a 100v, con cada uno d
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrien-
 tes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
-Explicación: 
+Explicación: 3.63mA
 
 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
 de colores es naranja, violeta, amarillo, oro, café.
 
-Explicación:
+Explicación: 0.032mA
 
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
 ![image](https://user-images.githubusercontent.com/117947312/202268253-6b9c61ae-1805-4945-890f-aa18dd69f844.png)
 
+12.5 A
+
 24. Calcule el voltaje para cada valor de I y R:
 
-(a) I=1mA; R=10Ω 
+(a) I=1mA; R=10Ω = 10000V
 
-(b) I=50mA; R=33Ω
+(b) I=50mA; R=33Ω = 1650 KV
 
-(c) I=3A; R=5.6KΩ
+(c) I=3A; R=5.6KΩ = 16.8 KV
 
-(d) I=1.6mA; R=2.2KΩ
+(d) I=1.6mA; R=2.2KΩ = 3.52 KV
 
-(e) I=250µA; R=1.0KΩ
+(e) I=250µA; R=1.0KΩ = 25000 KV 
 
-(f) I=500mA; R=1.5MΩ
+(f) I=500mA; R=1.5MΩ = 750 MV
 
-(g) I=850µA; R=10MΩ
+(g) I=850µA; R=10MΩ = 8.5 V
 
-(h) I=75µA; R=47Ω
+(h) I=75µA; R=47Ω = 0.0035 V
 
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 pa-
 ra obtener las cantidades de corriente indicadas.

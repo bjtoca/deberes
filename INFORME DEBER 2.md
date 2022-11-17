@@ -60,37 +60,36 @@ Explicación: 8200
 
 ![image](https://user-images.githubusercontent.com/117947312/202264076-c007e791-c4ef-4fac-8759-a83056349a35.png)
 
-(a) 0.015
-(b) 0.019
-(c) 0.021
+(a) I= 0.015
+(b) I= 0.019
+(c) I= 0.021
 
 Explicación: se transforma los kΩ a Ω, luego por medio de la ley de ohm se calcula la corriente de las 3 y se concluye que el circuito C es la mas alta y el A el mas bajo. 
 
-12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuen-
-te de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
-Explicación:
+Explicación: Se debería trabajar con 30 V ya que voltaje y corrientes son proporcionales.
 
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
-Explicación:
+Explicación: Si, ya que utilizando la ley de ohm con 10V a 100v, con cada uno de las resistencias, y su corriente iban de manera proporcional.
 
 16. Determine la corriente en cada caso:
 
-(a) V= 9V; R=2.7kΩ = 
+(a) V= 9V; R=2.7kΩ = 3.33 mA
 
-(b) V= 5.5V; R=10kΩ =
+(b) V= 5.5V; R=10kΩ = 0.55 mA
 
-(c) V= 40V; R=68kΩ =
+(c) V= 40V; R=68kΩ = 0.58 mA
 
-(d) V= 1kV; R=2.2kΩ =
+(d) V= 1kV; R=2.2kΩ = 454.45 mA 
 
-(e) V= 66kV; R=10MΩ =
+(e) V= 66kV; R=10MΩ = 6600 kA
 
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrien-
 tes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
-Explicación:
+Explicación: 
 
 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
 de colores es naranja, violeta, amarillo, oro, café.

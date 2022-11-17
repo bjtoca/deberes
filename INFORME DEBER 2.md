@@ -146,5 +146,15 @@ Explicación:
 
 ![image](https://user-images.githubusercontent.com/117947312/202274399-7de3f724-6482-4906-985b-712a237c4982.png)
 
+38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apropiadamente.
 
+Explicación:
+
+40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.
+
+Explicación:
+
+42. Abra el archivo P03-42 y encuentre el problema con el circuito
+
+Explicación:
 

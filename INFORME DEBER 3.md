@@ -34,6 +34,8 @@ CAPITULO 5
 
 ![image](https://user-images.githubusercontent.com/117947312/203894185-90aa96b6-e292-42b3-a798-6744514d30a0.png)
 
+![image](https://user-images.githubusercontent.com/117947312/204059477-8326bd4b-a9d5-4703-bae3-4070f4bb9b0b.png)
+
 3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
 
 170 kÆ
@@ -419,6 +421,20 @@ R3= 518 Ω
 
 R4= 422 Ω
 
+VIDEO https://youtu.be/FxECcMV0MnM
 
+CONCLUSIONES.
+
+Se determinó la relación entre la ley de KIRCHHOFF y voltaje, corriente y resistencia y se aplico en distintos casos por medio de la ley de ohm.
+
+Se comprendió la importancia de implementar las fórmulas aprendidas.
+
+se entendió la proporción que tiene la corriente, voltaje y resistencia.
+
+BIBLIOGRAFIA.
+
+Álvarez, D. O. (s/f). Número Atómico - Concepto, masa atómica y número másico. Concepto. Recuperado el 11 de noviembre de 2022, de https://concepto.de/numero-atomico/
+
+Sistema Internacional de Unidades y conversiones. (2019, enero 24). MateMovil; Matemóvil. https://matemovil.com/sistema-internacional-de-unidades-y-conversiones/
 
 

@@ -17,3 +17,11 @@ Objetivos específicos.
 MARCO TEÓRICO
 
 Mapas Conceptuales.
+
+![RESISTORES EN SERIE](https://user-images.githubusercontent.com/117947312/203892702-7b3d1136-4efd-44e3-80ee-7f0c8f5e682e.jpg)
+
+![Añadir un título](https://user-images.githubusercontent.com/117947312/203892747-554489b4-97a6-48bc-9c86-b4efd8a3f88d.jpg)
+
+![VOLTAJE EN UN CIRCUITO EN PARALELO](https://user-images.githubusercontent.com/117947312/203892779-fddaa45c-2943-4426-a8e6-7e125e8341ee.jpg)
+
+![LEY DE LAS CORRIENTES DE KIRCHHOFF](https://user-images.githubusercontent.com/117947312/203892795-10cc7584-0bc2-49df-acf6-90ef6d982c0b.jpg)

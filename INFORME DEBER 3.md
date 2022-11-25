@@ -113,4 +113,46 @@ control. Trace el diagrama esquemático.
 
 0.543 W
 
+23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+
+![image](https://user-images.githubusercontent.com/117947312/204012154-af760492-f7bb-4f0d-abc2-2ba8bd98c139.png)
+
+R1 = 330 Ω, 
+
+R2 = 220 Ω, 
+
+R3 = 100 Ω, 
+
+R4 = 470 Ω
+
+25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
+
+![image](https://user-images.githubusercontent.com/117947312/204012641-b10f43dd-2dc1-48ac-ac43-b4bd096ccda5.png)
+
+(a) ¿Cuál es la resistencia de R4?
+
+331 Ω
+
+(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
+
+Posición B: 9.15 mA
+
+Posición C: 14.3 mA
+
+Posición D: 36.3 mA
+
+(c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+
+No
+
+27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+
+14 V
+
+29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.
+
+![image](https://user-images.githubusercontent.com/117947312/204013540-e18cdaa9-6d38-4767-acb6-864b9af5a9e0.png)
+
+ (a) 23 V (b) 35 V (c) 0 V
+
 

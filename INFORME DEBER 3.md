@@ -208,36 +208,37 @@ R= V2 = 1.79 V, V3 = 1 V, V4 = 17.9 V
 ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
 ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
 
-R= 
+R= ![image](https://user-images.githubusercontent.com/117947312/204056341-c672346d-29f1-45fd-ad47-0be796f5b922.png)
+
 
 47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
 
-R=
+R= 54.9 mW
 
 49. Encuentre RT en la figura 5-89.
 
 ![image](https://user-images.githubusercontent.com/117947312/204054978-40d72caa-8a83-4151-b642-d40112d5fac4.png)
 
-R=
+R= 12.5 MΩ
 
 51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/117947312/204055063-cc2d7ff1-1c2a-4e70-aec5-a17aa65a1de5.png)
 
-R=
+R= VA = 100 V, VB = 57.7 V, VC = 15.2 V, VD = 7.58 V
 
 53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/117947312/204055101-8482fe20-d540-456a-a7b1-b44822993784.png)
 
-R=
+R= VA = 14.82 V, VB = 12.97 V, VC = 12.64 V, VD = 9.34 V
 
 55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
 componentes fallaron.
 
 ![image](https://user-images.githubusercontent.com/117947312/204055175-316dfedb-cc6d-400c-bce1-d1d321e9da91.png)
 
-R=
+R= (a) R4 está abierto. (b) Corto de A a B
 
 57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles
 problemas.
@@ -245,13 +246,15 @@ problemas.
 ![image](https://user-images.githubusercontent.com/117947312/204055268-6b10d794-0c81-4aee-85ef-7a354aacbb98.png)
 ![image](https://user-images.githubusercontent.com/117947312/204055272-6495ee30-d068-4dcd-b7e5-2eb482c66349.png)
 
-R=
+R= La tabla 5-1 es correcta
 
 59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
 Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
 De ser así, identifíquelo
 
-R=
+R= Sí. Hay un corto entre la clavija 4 y el lado superior de R11.
+
+
 
 
 
